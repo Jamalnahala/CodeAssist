@@ -1,0 +1,8 @@
+{
+  "name": "CodeAssist",
+  "description": "On-device mobile IDE for Android & Java development with code intelligence, block editing, build runner, and Git version control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
